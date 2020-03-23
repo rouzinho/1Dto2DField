@@ -53,7 +53,7 @@ Execute cedar and load it into cedar
 
 In the plugin Manager window, click on *add* and choose the plugin libOneDimTwoDim.so (located in build/). This one should appear in the window.
 
-You can close the window. The plugin is loaded inside cedar and before loading it, make sure your ROS node is running.
+You can close the window. The plugin is loaded inside cedar.
 
 You can now go back to the cedar main interface and click on the Utilities tab.
 
